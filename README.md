@@ -70,21 +70,28 @@ altin@bombstart:~$ ./run --mode=ship-it
 ## 📡 Telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=altinpllana&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altinpllana&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
+  <img src="https://raw.githubusercontent.com/altinpllana/altinpllana/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/altinpllana/altinpllana/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/altinpllana/altinpllana/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/altinpllana/altinpllana/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/altinpllana/altinpllana/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" height="180" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=altinpllana&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altinpllana&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+## 🧰 Open Source
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altinpllana&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
+| Repo | What it is |
+|---|---|
+| ⚡ **[wp-woo-snippets](https://github.com/altinpllana/wp-woo-snippets)** | Battle-tested WordPress &amp; WooCommerce snippets for performance, security and conversions |
 
 ## 🐍 Contribution Grid
 
